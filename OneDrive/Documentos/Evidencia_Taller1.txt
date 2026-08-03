@@ -1,0 +1,213 @@
+202  history
+  203  git branch
+  204  git branch -M main
+  205  git status
+  206  git branch
+  207  pwd
+  208  git init
+  209  mkdir Taller1_AmarisSantiago
+  210  git status
+  211  pwd
+  212  cd Taller1_AmarisSantiago
+  213  mkdir documentos scripts datos imagenes
+  214  ls
+  215  cd documentos
+  216  mkdir informes notas
+  217  ls
+  218  cd ..
+  219  cd scripts
+  220  mkdir python bash
+  221  cd ..
+  222  cd datos
+  223  mkdir entrada salida
+  224  cd ..
+  225  git remote add https://github.com/Santi-amaris/Herramientas_computacionales
+  226  git remote add origin git@github.com:Santi-amaris/Herramientas_computacionales.git
+  227  git status
+  228  cd documentos/notas
+  229  touch ideas.txt
+  230  ls
+  231  cd ..
+  232  cd notas
+  233  touch pendientes.txt
+  234  ls
+  235  cd ..
+  236  cd informes
+  237  informe1.txt
+  238  touch informa1.txt
+  239  mv informa1.txt informe1.txt
+  240  ls
+  241  cd ..
+  242  cd ..
+  243  cd scripts/python
+  244  touch hola.py
+  245  ls
+  246  cd ..
+  247  cd bash
+  248  touch saludo.sh
+  249  ls
+  250  cd ..
+  251  cd ..
+  252  cd datos/entrada
+  253  touch datos.csv
+  254  cd ..
+  255  cd ..
+  256  cd imagenes
+  257  touch logo.txt
+  258  cd ..
+  259  cd documentos/notas
+261  cat ideas.txt
+  262  echo Aprendiendo Git Bash ¿ ideas.txt
+  263  cat ideas.txt
+  264  echo Aprendiendo Git Bash ideas.txt
+  265  echo Aprendiendo Git Bash > ideas.txt
+  266  cat ideas.txt
+  267  echo 1. Practicar comandos 2. Aprender Git 3. Realizar push al repositorio > pendientes.txt
+  268  cd ..
+  269  cd informes
+  270  echo Nombre: Santiago Andrés Amarís Álvarez Código: 11235813 Fecha: 2/08/2026 > informe1.txt
+  271  cd ..
+  272  cd ..
+  273  cd scripts
+  274  cd python
+  275  echo print[Hola Herramientas Computacionales] > hola.py
+ 276  cat hola.py
+  277  cd ..
+  278  cd bash
+  279  echo Bienvenido al curso
+  280  cat saludo.sh
+  281  cd ..
+  282  cd ..
+  283  cd datos/entrada
+  284  echo id, valor 1,25 2,40 3,18
+  285  echo id, valor > datos.csv
+  286  echo 1,25 >> datos.csv
+  287  echo 2,40 >> datos.csv
+  288  echo 3,18 >> datos.csv
+  289  cat datos.csv
+  290  cd ..
+  291  cd ..
+  292  cd documentos/informes
+  293  echo Nombre: Santiago Andrés Amarís Álvarez ¿ informe1.txt
+  294  cat informe1.txt
+  295  echo Nombre: Santiago Andrés Amarís Álvarez ¿ > informe1.txt
+  296  echo Código: 11235813 >> informe1.txt
+  297  echo Fecha: 2/08/2026 >> informe1.txt
+  298  cat informe1.txt
+  299  cd ..
+  300  cd notas
+  301  echo 1. Practicar comandos. > pendientes.txt
+  302  echo 2. Aprender Git >> pendientes.txt
+303  echo 3. Realizar push al repositorio >> pendientes.txt
+  304  cat pendientes.txt
+  305  cp ideas.txt ideas_backup.txt documentos/informes
+  306  cp ideas.txt ideass
+  307  ls
+  308  rm ideass
+  309  ls
+  310  cp ideas.txt ideas_backup.txt informes/
+  311  cp ideas.txt ideas_backup.txt ../informes
+  312  cp ideas.txt ideas_backup.txt informes/
+  313  cp ideas.txt ideas_backup.txt /informes
+  314  cp ideas.txt ideas_backup.txt /documentos/informes
+  315  cp ideas.txt ideas_backup.txt documentos/informes
+  316  cd ..
+  317  ls
+  318  cd notas
+  319  cp ideas.txt ideas.backup.txt informes/
+  320  cp ideas.txt ideas_backup.txt documentos/informes/
+  321  cp ideas.txt ideas.backup.txt ../informes/
+  322  cp ideas_backup.txt ../informes
+  323  cp ideas.txt ideas_backup.txt ../informes/
+  324  cp ideas.txt ideas_backup.txt documentos/informes
+  325  cp ideas.txt ideas_backup.txt
+  326  cp ideas_backup.txt documentos/informes/
+  327  cp ideas_backup.txt informes/
+  328  cp ideas_backup.txt /documentos/informes/
+  329  ls
+  330  cp ideas_backup.txt /Taller1_AmarisSantiago/documentos/informes
+  331  cp ideas_backup.txt ../informes
+  332  cd ..
+  333  cd ..
+  334  cd datos/entrada
+  335  cp hola.py ../salida
+  336  cd ..
+  337  cd ..
+  338  cd scripts/python
+  339  cp hola.py ../../datos/salida
+  340  cd ..
+  341  cd ..
+  342  cd imagenes
+  343  mv logo.txt ../documentos
+  344  cd ..
+  345  cd documentos
+  346  ls
+  347  cd ..
+  348  cd documentos/notas
+  349  mv pendientes.txt ../informes
+  350  ls
+  351  rm ideas_backup.txt
+  352  ls
+  353  cd ..
+  354  cd informes
+  355  ls
+  356  rm ideas_backup.txt
+  357  ls
+  358  echo 1. ¿En qué directorio se encuentra actualmente?
+  359  echo La respuesta es: pwd
+  360  pwd
+  361  echo 2. Liste el contenido de la carpeta scripts.
+  362  echo La respuesta es: ls scripts
+  363  cd ..
+  364  cd ..
+  365   cd scripts
+  366  ls
+  367  echo 3. Muestre el contenido del archivo datos.csv sin abrir ning´un editor de texto.
+368  echo La respuesta es: el comando cat
+  369  cd ..
+  370  cd datos/entrada
+  371  ls
+  372  cat datos.csv
+  373  echo 4. Si tiene disponible el comando tree, muestre la estructura completa del proyecto.
+  374  cd ..
+  375  cd ..
+  376  tree
+  377  cmd //c tree
+  378  git status
+  379  git branch
+  380  git branch Talleres
+  381  git branch -m Talleres
+  382  git remote add origin git@github.com:Santi-amaris/Herramientas_computacionales.git
+  383  git status
+  384  git add .
+  385  git status
+  386  history
+387  mkdir .backup
+  388  ls -a
+  389  cmd //c tree
+  390  ls
+  391  cd backup
+  392  cp -r documentos backup/
+  393  cd .backup
+  394  ls
+  395  ls -a
+  396  cd ..
+  397  ls
+  398  rm backup
+  399  rm -r backup
+  400  ls
+  401  cp -r documentos .backup/
+  402  ls
+  403  ls -a
+  404  cd .backup
+  405  ls
+  406  cd ..
+  407  git add .
+  408  cd ..
+  409  ls
+  410  cd Documents/
+  411  ls
+  412  cd ..
+  413  cd Onedrive/Documentos
+  414  ls
+  415  touch Evidencia_Taller1.txt

@@ -1,0 +1,13 @@
+Roger,14,4.56
+Gleen,15,5.0
+Jero,20,3.76
+Susana,20,3.01
+Mario,60,4.50
+Luigi,53,2.78
+Bowser,700,1.35
+Isaac,13,4.56
+Pepe,32,3.4
+Britney,18,3.1
+Gladys,56,4.78
+Mendoza,25,1.56
+Martin,20,2.78

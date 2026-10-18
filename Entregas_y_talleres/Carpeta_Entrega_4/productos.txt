@@ -1,0 +1,5 @@
+Leche,4500,2
+Manzana,7000,6
+Pan tajado,8000,1
+Canela,2700,4
+Jamón,6000,5

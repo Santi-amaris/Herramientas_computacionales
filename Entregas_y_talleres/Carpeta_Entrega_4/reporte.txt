@@ -1,0 +1,12 @@
+REPORTE DE NOTAS
+===================
+Promedio: 3.72 
+Aprobados: 4 
+No aprobados: 1 
+
+TEMPERATURAS
+==============
+EL promedio de temperaturas fue de: 1605.25 
+La temperatura máxima fue de: 9438.0 
+La temperatura mínima fue de: 0.0 
+El número de temperaturas que pasaron el promedio fue de: 2 

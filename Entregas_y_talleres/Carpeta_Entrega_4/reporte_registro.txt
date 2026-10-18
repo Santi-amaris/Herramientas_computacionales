@@ -1,0 +1,14 @@
+REPORTE DE NOTAS DEL REGISTRO DE ESTUDIANTES
+===================
+Promedio general: 3.47 
+
+Los estudiantes que aprobaron fueron:
+* Roger 
+* Gleen 
+* Jero 
+* Susana 
+* Mario 
+* Isaac 
+* Pepe 
+* Britney 
+* Gladys 

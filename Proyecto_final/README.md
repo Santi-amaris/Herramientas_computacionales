@@ -1,4 +1,4 @@
-$\hspace{0.25cm}{\color{#ab7fab}{\underline{\LARGE{{\textbf{{Proyecto Final -- Simulador de Blackjack}}}}}}}$
+$\hspace{0.25cm}{\color{#ab7fab}{\underline{\huge{{\textbf{{Proyecto Final -- Simulador de Blackjack}}}}}}}$
 
 $\hspace{0.5cm}{\color{#ab7fab}{\Large{\textbf{Santiago Andrés Amarís Álvarez}}}}$
 

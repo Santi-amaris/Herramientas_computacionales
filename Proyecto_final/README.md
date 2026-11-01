@@ -1,6 +1,6 @@
-$\hspace{0.25cm}{\color{#ab7fab}{\underline{\Large{{\textbf{{Proyecto Final -- Simulador de Blackjack}}}}}}}$
+$\hspace{0.25cm}{\color{#ab7fab}{\underline{\LARGE{{\textbf{{Proyecto Final -- Simulador de Blackjack}}}}}}}$
 
-$\hspace{0.5cm}{\color{#ab7fab}{\large{\textbf{Santiago Andrés Amarís Álvarez}}}}$
+$\hspace{0.5cm}{\color{#ab7fab}{\Large{\textbf{Santiago Andrés Amarís Álvarez}}}}$
 
 
 
@@ -12,7 +12,7 @@ Otra característica única del juego es que lo verdaderamente relevante es el v
 
 
 
-$\hspace{0.5cm}{\color{#ab7fab}{\normalsize{\textbf{Funcionalidades principales}}}}$
+$\hspace{0.5cm}{\color{#ab7fab}{\large{\textbf{Funcionalidades principales}}}}$
 
 Entre las funcionalidades principales del programa se encuentran: 
 
@@ -28,7 +28,7 @@ Si la ronda la gana el jugador obtiene de vuelta su apuesta inicial por duplicad
 
 
 
-$\hspace{0.5cm}{\color{#ab7fab}{\normalsize{\textbf{Instrucciones de uso}}}}$
+$\hspace{0.5cm}{\color{#ab7fab}{\large{\textbf{Instrucciones de uso}}}}$
 
 
 
@@ -39,7 +39,7 @@ Luego, en la interfaz de Python el programa le preguntará al usuario cual acci�
 Todas la anteriores opciones serán las únicas con las que el usuario podrá interactuar a través de una ronda y posteriormente cuando acabé la partida, toda la información de los movimientos hechos tanto por el jugador como por el "Dealer" serán impresas en la consola según se desarrolla el juego. 
 
 
-$\hspace{0.5cm}{\color{#ab7fab}{\normalsize{\textbf{Ejemplo de uso y resultados esperados}}}}$
+$\hspace{0.5cm}{\color{#ab7fab}{\large{\textbf{Ejemplo de uso y resultados esperados}}}}$
 
 
 Tomemos de ejemplo la siguiente situación: 
